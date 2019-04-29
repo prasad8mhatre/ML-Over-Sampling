@@ -4,5 +4,4 @@ Multi-class imbalanced problems have attracted growing attention from the real-w
 
 Paper link: https://ieeexplore.ieee.org/document/8065074
 
-Algorithm Implementation:
 
